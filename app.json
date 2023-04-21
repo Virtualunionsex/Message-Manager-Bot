@@ -7,7 +7,7 @@
         "manager",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Message-Manager-Bot",
+    "repository": "https://github.com/virtualunionsex/Message-Manager-Bot",
     "website": "https://telegram.dog/AbirHasan2005",
     "success_url": "https://t.me/MessageManager_Bot",
     "env": {
