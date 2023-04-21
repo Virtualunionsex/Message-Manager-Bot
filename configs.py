@@ -18,11 +18,10 @@ class Config(object):
     ASK_FOR_BLOCKED_EXT_LIST = os.environ.get("ASK_FOR_BLOCKED_EXT_LIST",
                                               "Reply to this message with a list of Blocked Extensions. If any file with that extension I will not forward that file!\n\nExample:\nzip\nmkv\ntorrent\ntxt\npy\ncap\nmp4\nmp3\nrar\n\nExtensions should be in lower case!")
     START_TEXT = """
-Hi, This is Hancock Robot Massages Manager Bot!
-I can do many things with messages in a Group.
+Hancock Robot adalah bot paling lengkap untuk membantu anda mengelola grup anda dengan mudah dan aman!
 
-Check /settings 
-Check /help for Cmd Manage and /mhelp for Cmd Music!! 
+❓ APA PERINTAHNYA? ❓ 
+Tekan /help dan /mhelp untuk melihat semua perintah dan cara kerjanya!
 """
     ABOUT_CUSTOM_FILTERS_TEXT = """
 Custom Filters is for deleting only separate type Media Messages or Only Text Messages.
